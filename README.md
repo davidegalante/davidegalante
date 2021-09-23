@@ -1,4 +1,4 @@
-👋 Davide Galante
+👋 Davide Galante <br>
 📚 UniPr Parma, Facoltà Di Informatica
 
 <!---
