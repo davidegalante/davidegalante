@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Davide Galante
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Davide Galante
+📚 UniPr Parma, Facoltà Di Informatica
 
 <!---
 davidegalante/davidegalante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
