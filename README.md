@@ -1,5 +1,5 @@
 👋 Davide Galante <br>
-📚 UniPr Parma, Facoltà Di Informatica
+📚 UniPr Parma, Facoltà Di Informatica <br>
 🖥️ Software Developer - TeknoMaint SRL
 
 <!---
